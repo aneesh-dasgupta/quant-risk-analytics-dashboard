@@ -19,12 +19,12 @@ Institutional-style portfolio analytics engine built using Python that evaluates
 
 ## Technologies
 
-Python
-Pandas
-NumPy
-Plotly
-Yahoo Finance API
-Matplotlib
+• Python
+• Pandas
+• NumPy
+• Plotly
+• Yahoo Finance API
+• Matplotlib
 
 ## Future Improvements
 
